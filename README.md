@@ -1,6 +1,6 @@
 # Convention Roomate Matcher
 
-## There are many conventions every year that thousands of people attend. Many times these attendees would like to save some money since the tickets to the convention can be quite pricey. The convention roomate matcher allows attendees from all over the world to find a roomate and share the costs of lodging. There are many qualifiers that help to create the perfect match:
+There are many conventions every year that thousands of people attend. Many times these attendees would like to save some money since the tickets to the convention can be quite pricey. The convention roomate matcher allows attendees from all over the world to find a roomate and share the costs of lodging. There are many qualifiers that help to create the perfect match:
 
 ## Most Important Match Qualifiers:
   * Convention Name / Location
@@ -46,3 +46,5 @@
 
 ## Data:
   * GeoLite2-City-Locations-en.csv (downloaded csv file from https://dev.maxmind.com/geoip/geoip2/geolite2/)
+
+## Signed off by Angie, Matt
