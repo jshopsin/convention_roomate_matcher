@@ -12,7 +12,7 @@ There are many conventions every year that thousands of people attend. Many time
   * age
   * home city
 
-## The CRM (Convention Roomate Matcher) will begin by trying to match all 6 qualifiers. If no matches are found then the search will remove the secondary match qualifiers from the search.
+The CRM (Convention Roomate Matcher) will begin by trying to match all 6 qualifiers. If no matches are found then the search will remove the secondary match qualifiers from the search.
 
 ## The CRM needs to include specific conventions.
   * Event planners can create an entry for their specific convention and can send the link to all the attendees of the convention.
@@ -27,7 +27,6 @@ There are many conventions every year that thousands of people attend. Many time
   4. Debby Tucker is furious that the convention center cancelled her booking for the BMES conference and suddenly needs to change the start and end dates of the convention. She wants to be able to update the dates on the CRM and email all of the users who have already been matched to let them know of the change. (P.S. Debby Tucker is Jennifer Shopsin's mother and this would NEVER happen to her, but perhaps this could happen to another event planner.)
   5. Lauren Shilling is attending the Perinatal Women's Mental Health convention and has already used the CRM for a former convention. Lauren moved from Washington, DC to San Francisco, CA since she last used the CRM and needs to update this information to find the best possible match.
   6. Harrison Palin lives in a remote town in Alaska and unfortunately is not able to find a match that lives close by. The search will have to be expanded to find a match that is still of the same gender, attending the same convention and has the same requested check-in and check-out dates.
-
 
 ## Views:
   * index - homepage that will include a spot for add convention or user login
@@ -47,4 +46,5 @@ There are many conventions every year that thousands of people attend. Many time
 ## Data:
   * GeoLite2-City-Locations-en.csv (downloaded csv file from https://dev.maxmind.com/geoip/geoip2/geolite2/)
 
-## Signed off by Angie, Matt
+## Signed off by:
+* Angie and Matt
